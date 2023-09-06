@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-routerApp/static/css/main.da3089f3.css",
+    "main.js": "/react-routerApp/static/js/main.4011b47f.js",
+    "static/media/hata.jpg": "/react-routerApp/static/media/hata.bbdb51a7b59871804c14.jpg",
+    "static/media/logo.png": "/react-routerApp/static/media/logo.8302021de9fe139838e9.png",
+    "index.html": "/react-routerApp/index.html",
+    "main.da3089f3.css.map": "/react-routerApp/static/css/main.da3089f3.css.map",
+    "main.4011b47f.js.map": "/react-routerApp/static/js/main.4011b47f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.4011b47f.js"
+  ]
+}
